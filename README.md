@@ -1,7 +1,7 @@
-v0-portátil
+*PromptUI*
 -
 
-v0-portátil es una aplicación web para generar interfaces de usuario (UI) a partir de un prompt de texto, usando un modelo de lenguaje. El proyecto es local y escalable, pensado para pruebas y desarrollo rápido sin depender de servicios pagos.
+PromptUI es una aplicación web para generar interfaces de usuario (UI) a partir de un prompt de texto, usando un modelo de lenguaje. El proyecto es local y escalable, pensado para pruebas y desarrollo rápido sin depender de servicios pagos.
 
 
 🚀 Características
